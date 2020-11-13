@@ -14,6 +14,8 @@
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />](https://nodejs.org/es/) 
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />](https://git-scm.com/) 
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://github.com/) 
+[<img align="left" alt="Figma" width="26px" src="https://user-images.githubusercontent.com/63525613/99126182-9ef33c00-25d3-11eb-824f-ffcb6dacab4d.png" />](https://www.figma.com/)
+[<img align="left" alt="Miro" width="26px" src="https://user-images.githubusercontent.com/63525613/99126027-56d41980-25d3-11eb-97b1-4f1f129305d3.png" />](https://miro.com/)
 <br />
 <br />
 
