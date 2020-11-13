@@ -1,6 +1,6 @@
-### setTimeout(function() { alert("Hello 👋"); }, 3000);  
+# setTimeout(function() { alert("Hello 👋"); }, 3000);  
 
-✨ **Bienvenidos a mi repositorio GitHub** ✨
+## ✨ **Bienvenidos a mi repositorio GitHub** ✨
 
   Estudiante Frontend Development de **< L >** *Laboratoria Perú*. Soy creativa, asertiva y analítica, lo que me permite brindar una mejor interacción entre el usuario y la web.
   
