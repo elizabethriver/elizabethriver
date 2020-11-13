@@ -4,6 +4,7 @@
 
   Estudiante Frontend Development de **< L >** *Laboratoria Perú*. Soy creativa, asertiva y analítica, lo que me permite brindar una mejor interacción entre el usuario y la web.
   
+
   Mis principales habilidades en programación son:
    
   - :heavy_check_mark: :rocket: **Javascript**
@@ -14,4 +15,4 @@
   
 Por las siguientes redes, me puedes seguir:
 
-- :briefcase: Mi [LinkedIn](https://www.linkedin.com/in/elizabeth-rivera-ura-51427712b/) personal
+ - LinkedIn [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/elizabeth-rivera-ura-51427712b/) 
