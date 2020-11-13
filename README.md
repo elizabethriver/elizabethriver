@@ -1,11 +1,10 @@
-# setTimeout(function() { alert("Hello 👋"); }, 3000);  
+# setTimeout( function() { alert("Hello 👋"); }, 3000);  
 
 ## ✨ **Bienvenidos a mi repositorio GitHub** ✨
 
-  Estudiante Frontend Development de **< L >** *Laboratoria Perú*. Soy creativa, asertiva y analítica, lo que me permite brindar una mejor interacción entre el usuario y la web.
+  Estudiante Frontend Development de **< L >** *Laboratoria Perú*. Soy 🚀 creativa, 🎭 asertiva y 🔨 analítica, lo que me permite brindar una mejor interacción entre el usuario y la web.
   
-
-  Mis principales *habilidades* en programación son:
+ Mis principales *skills* en programación y diseño son:
    
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://user-images.githubusercontent.com/63525613/99124710-ab29ca00-25d0-11eb-83bc-00765c841cf4.png" />](https://code.visualstudio.com/) 
 [<img align="left" alt="HTML" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](https://developer.mozilla.org/es/docs/Web/HTML) 
@@ -22,3 +21,11 @@
 Por las siguientes redes, me puedes seguir:
 
   [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/elizabeth-rivera-ura-51427712b/) 
+
+```diff
+- Crea
++ grandes
+! proyectos
+# con autoaprendizaje
+@@ y constancia @@
+```
