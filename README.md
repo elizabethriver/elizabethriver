@@ -18,10 +18,7 @@
 <br />
 <br />
 
-Por las siguientes redes, me puedes seguir:
-
-  [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/elizabeth-rivera-ura-51427712b/) 
-
+Mi *slogan* es:
 ```diff
 - Crea
 + grandes
@@ -29,3 +26,12 @@ Por las siguientes redes, me puedes seguir:
 # con autoaprendizaje
 @@ y constancia @@
 ```
+<br />
+<br />
+
+Sígueme por las siguientes **redes sociales**:
+
+  [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/elizabeth-rivera-ura-51427712b/) 
+  
+<br />
+<br />
