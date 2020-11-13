@@ -2,10 +2,10 @@
 
 ✨ **Bienvenidos a mi repositorio GitHub** ✨
 
-  Estudiante Frontend Development de <L> *Laboratoria Perú*. Soy creativa, asertiva y analítica, lo que me permite brindar una mejor interacción entre el usuario y la web.
+  Estudiante Frontend Development de **< L >** <span style="color:Yellow">*Laboratoria Perú*</span>. Soy creativa, asertiva y analítica, lo que me permite brindar una mejor interacción entre el usuario y la web.
   
   Mis principales habilidades en programación son:
-  
+   
   - :heavy_check_mark: :rocket: **Javascript**
   - :heavy_check_mark: :hammer: **HTML**
   - :heavy_check_mark: :performing_arts: **CSS**
