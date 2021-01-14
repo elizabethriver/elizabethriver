@@ -2,7 +2,7 @@
 
 ## ✨ **Welcome to my GitHub repository** ✨
 
-Frontend Development student of **< L >** *Laboratoria Perú*. I am 🚀 creative, 🎭 assertive and 🔨 analytical, which allows me to provide a better interaction between the user and the web.
+Front end developer student of **< L >** *Laboratoria Perú*. I am 🚀 creative, 🎭 assertive and 🔨 analytical, which allows me to provide a better interaction between the user and the web.
   
 My main *skills* in programming and design are:
 
