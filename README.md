@@ -32,7 +32,8 @@ My *slogan* is:
 Follow me on the following **social networks**:
 
   [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/elizabeth-rivera-ura-51427712b/) 
- Portafolio: src="https://elizabethriver.github.io/portafolio/"
+<br />
+ You can see my portfolio [here](https://elizabethriver.github.io/portafolio/)
   
 <br />
 <br />
