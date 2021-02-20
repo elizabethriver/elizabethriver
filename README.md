@@ -1,6 +1,8 @@
 [<img align="center" alt="Visual Studio Code" width="auto" src="https://user-images.githubusercontent.com/63525613/108603537-7e771280-7376-11eb-9b86-250056e2e846.gif" />](https://elizabethriver.github.io/portafolio/) 
 
-[![Watch the video](https://user-images.githubusercontent.com/63525613/108604411-be8cc400-737b-11eb-8f28-08f04673ab50.mp4)
+
+[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://user-images.githubusercontent.com/63525613/108604411-be8cc400-737b-11eb-8f28-08f04673ab50.mp4)
+
 # setTimeout( function() { alert("Hello 👋"); }, 3000);  
 
 ## ✨ **Welcome to my GitHub repository** ✨
