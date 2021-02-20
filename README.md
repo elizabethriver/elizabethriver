@@ -1,4 +1,4 @@
-[<img align="center" alt="Visual Studio Code" width="auto" src="https://user-images.githubusercontent.com/63525613/108603429-d4978600-7375-11eb-9ed8-2ce6fab03147.gif" />](https://elizabethriver.github.io/portafolio/) 
+[<img align="center" alt="Visual Studio Code" width="auto" src="https://user-images.githubusercontent.com/63525613/108603537-7e771280-7376-11eb-9b86-250056e2e846.gif" />](https://elizabethriver.github.io/portafolio/) 
 
 # setTimeout( function() { alert("Hello 👋"); }, 3000);  
 
