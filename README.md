@@ -1,7 +1,5 @@
 [<img align="center" alt="Visual Studio Code" width="auto" src="https://user-images.githubusercontent.com/63525613/108603537-7e771280-7376-11eb-9b86-250056e2e846.gif" />](https://elizabethriver.github.io/portafolio/) 
 
-[![Demo](https://user-images.githubusercontent.com/63525613/108605135-470d6380-7380-11eb-9259-bacdc9e201e4.gif)](https://user-images.githubusercontent.com/63525613/108604964-ffd2a300-737e-11eb-9548-ecfe1bfc9934.mp4)
-
 # setTimeout( function() { alert("Hello 👋"); }, 3000);  
 
 ## ✨ **Welcome to my GitHub repository** ✨
