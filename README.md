@@ -1,7 +1,6 @@
 [<img align="center" alt="Visual Studio Code" width="auto" src="https://user-images.githubusercontent.com/63525613/108603537-7e771280-7376-11eb-9b86-250056e2e846.gif" />](https://elizabethriver.github.io/portafolio/) 
 
-
-[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://user-images.githubusercontent.com/63525613/108604411-be8cc400-737b-11eb-8f28-08f04673ab50.mp4)
+[![Demo](https://user-images.githubusercontent.com/63525613/108605135-470d6380-7380-11eb-9259-bacdc9e201e4.gif)](https://user-images.githubusercontent.com/63525613/108604964-ffd2a300-737e-11eb-9548-ecfe1bfc9934.mp4)
 
 # setTimeout( function() { alert("Hello 👋"); }, 3000);  
 
