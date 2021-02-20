@@ -39,7 +39,7 @@ My *slogan* is:
 
 Follow me on the following **social networks**:
 
-[<img align="right" alt="codeSTACKr" | LinkedIn" width="22px" src="https://user-images.githubusercontent.com/63525613/108604042-78cefc00-7379-11eb-8302-4bb1e5f3f7fa.png" />](https://www.linkedin.com/in/elizabeth-rivera-ura-51427712b/) 
+[<img align="right" alt="codeSTACKr | LinkedIn" width="22px" src="https://user-images.githubusercontent.com/63525613/108604042-78cefc00-7379-11eb-8302-4bb1e5f3f7fa.png" />](https://www.linkedin.com/in/elizabeth-rivera-ura-51427712b/) 
 <br />
 You can see my portfolio [here](https://elizabethriver.github.io/portafolio/)
   
