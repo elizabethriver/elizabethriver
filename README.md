@@ -1,4 +1,4 @@
-[<img align="center" alt="Visual Studio Code" width="100%" src="https://user-images.githubusercontent.com/63525613/108602811-23432100-7372-11eb-817b-c23f37bbe43b.gif" />](https://elizabethriver.github.io/portafolio/) 
+[<img align="center" alt="Visual Studio Code" width="100%" src="https://user-images.githubusercontent.com/63525613/108603429-d4978600-7375-11eb-9ed8-2ce6fab03147.gif" />](https://elizabethriver.github.io/portafolio/) 
 
 # setTimeout( function() { alert("Hello 👋"); }, 3000);  
 
@@ -33,7 +33,7 @@ My *slogan* is:
 
 Follow me on the following **social networks**:
 
-  [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/elizabeth-rivera-ura-51427712b/) 
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/elizabeth-rivera-ura-51427712b/) 
 <br />
  You can see my portfolio [here](https://elizabethriver.github.io/portafolio/)
   
