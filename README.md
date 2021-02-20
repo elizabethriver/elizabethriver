@@ -10,7 +10,7 @@ My main *skills* in programming and design are:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://user-images.githubusercontent.com/63525613/99124710-ab29ca00-25d0-11eb-83bc-00765c841cf4.png" />](https://code.visualstudio.com/) 
 [<img align="left" alt="HTML" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](https://developer.mozilla.org/es/docs/Web/HTML) 
-[<img align="left" alt="CSS" width="26px" src="https://user-images.githubusercontent.com/63525613/108603636-1a088300-7377-11eb-9625-7618b2ab9218.png" />](https://developer.mozilla.org/es/docs/Web/CSS) 
+[<img align="left" alt="CSS" width="26px" src="https://user-images.githubusercontent.com/63525613/108603692-71a6ee80-7377-11eb-842e-135137fef7c6.png" />](https://developer.mozilla.org/es/docs/Web/CSS) 
 [<img align="left" alt="JavaScript" width="26px" src="https://user-images.githubusercontent.com/63525613/108603665-458b6d80-7377-11eb-83ab-4bae8e779663.png" />](https://developer.mozilla.org/es/docs/Web/JavaScript) 
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />](https://nodejs.org/es/) 
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />](https://git-scm.com/) 
